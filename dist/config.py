@@ -1,0 +1,1 @@
+{'autoLogin': True, 'remberPassword': True, 'username': 'admin', 'password': 'admin'}

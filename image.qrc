@@ -1,0 +1,20 @@
+<RCC>
+  <qresource prefix="/">
+    <file>image/logBg.png</file>
+    <file>image/homeBg.png</file>
+    <file>image/loginBg.png</file>
+    <file>image/systemMessage.png</file>
+    <file>image/registPrompt.png</file>
+    <file>image/rememberme.png</file>
+    <file>image/registText.png</file>
+    <file>image/loginText.png</file>
+    <file>image/freeAccount.png</file>
+    <file>image/loginButton.png</file>
+    <file>image/loginHoverButton.png</file>
+    <file>image/logoutButton.png</file>
+    <file>image/logoutHoverButton.png</file>
+    <file>image/registButton.png</file>
+    <file>image/registhoverButton.png</file>
+    <file>image/getipTray.png</file>
+  </qresource>
+</RCC>

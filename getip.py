@@ -47,7 +47,8 @@ class Ui_HomePage(QWidget):
             self.usernameEdit.setText(self.config['username'])
             self.passwordEdit.setText(self.config['password'])
             self.remerberBox.toggle() # 将选择框打勾
-            if(self.config['autoLogin']==True):                self.loginIn()
+            if(self.config['autoLogin']==True):
+                self.loginIn()
         self.sendipThread = SendIPThread()  # 发送IP地址的线程
         self.sendipThread.start()
         self.sendipThread.senip.connect(self.sendIPToServer)
